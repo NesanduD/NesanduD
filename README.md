@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/nesandu-dissaka-460386245](https://www.linkedin.com/in/nesandu-dissaka-460386245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nesandu dissaka" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nesandu-dissaka-460386245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nesandu dissaka" height="30" width="40" /></a>
 <a href="https://medium.com/@ndissaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ndissaka" height="30" width="40" /></a>
 </p>
 
