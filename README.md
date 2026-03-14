@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesandud&label=Profile%20views&color=0e75b6&style=flat" alt="nesandud" /> </p>
 
-- 🔭 I’m currently working on [Audio-To-Notation]([https://github.com/NesanduD/WeatherApp](https://github.com/NesanduD/audio-to-notation.git))
+- 🔭 I’m currently working on [Audio-To-Notation]((https://github.com/NesanduD/audio-to-notation.git))
 
 - 🌱 I’m currently learning **Tensorflow, C**
 
