@@ -3,17 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nesandud&label=Profile%20views&color=0e75b6&style=flat" alt="nesandud" /> </p>
 
-- 🔭 I’m currently working on [Audio-To-Notation]((https://github.com/NesanduD/audio-to-notation.git))
+- 🔭 I’m currently working on [Crypto Bot](())
 
-- 🌱 I’m currently learning **Tensorflow, C**
+- 🌱 I’m currently learning **Ballarina**
 
 - 📝 I regularly write articles on [https://medium.com/@ndissaka](https://medium.com/@ndissaka)
 
 - 📫 How to reach me **ndissaka@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
